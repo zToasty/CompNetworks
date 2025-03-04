@@ -1,4 +1,4 @@
-import time
+3mport time
 import csv
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
